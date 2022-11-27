@@ -24,10 +24,10 @@ const fragment  = document.createDocumentFragment()
             <div class="text-id-container" >
 
                 <div class="text-container">
-                    <h3>Foods:</h3> 
-                    <p>Protein: ${malumot.nutritions.protein}</p>
-                    <p>Fat: ${malumot.nutritions.fat}</p>
-                    <p>sugar: ${malumot.nutritions.sugar}</p>
+                    <h3>Oqsillar</h3> 
+                    <p>:Protein ${malumot.nutritions.protein}%</p>
+                    <p>Yog': ${malumot.nutritions.fat}%</p>
+                    <p>Shakar: ${malumot.nutritions.sugar}%</p>
                 </div> 
                 
                 
