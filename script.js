@@ -25,7 +25,7 @@ const fragment  = document.createDocumentFragment()
 
                 <div class="text-container">
                     <h3>Oqsillar</h3> 
-                    <p>:Protein ${malumot.nutritions.protein}%</p>
+                    <p>Protein: ${malumot.nutritions.protein}%</p>
                     <p>Yog': ${malumot.nutritions.fat}%</p>
                     <p>Shakar: ${malumot.nutritions.sugar}%</p>
                 </div> 
